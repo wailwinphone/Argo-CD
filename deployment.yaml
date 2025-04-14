@@ -17,4 +17,4 @@ spec:
       - name: myapp
         image: wailwinphone/website:1.0
         ports:
-        - containerPort: 3002
+        - containerPort: 3001
